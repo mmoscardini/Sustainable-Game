@@ -1,0 +1,32 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CityManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PolutionManager.cs" Line="14" Column="56" />
+      <File FileName="Assets\Scripts\Resources.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PowerPlantManager.cs" Line="6" Column="14" />
+      <File FileName="Assets\Scripts\PowerPlants\PowerPlant.cs" Line="35" Column="61" />
+      <File FileName="Assets\Scripts\CityManager.cs" Line="39" Column="38" />
+      <File FileName="Assets\Scripts\City.cs" Line="33" Column="1" />
+      <File FileName="Assets\Scripts\PowerPlants\EolicaPlant.cs" Line="7" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Energy Manager" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PowerPlants" expanded="True" />
+                <Node name="CityManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

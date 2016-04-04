@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E59C8017-9FDE-BF7D-CF78-3C3ECF8A6F3F}") = "Energy Manager", "Assembly-CSharp.csproj", "{42F8B29B-F2E4-9AB5-C4CB-9D8D43B15E38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42F8B29B-F2E4-9AB5-C4CB-9D8D43B15E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F8B29B-F2E4-9AB5-C4CB-9D8D43B15E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F8B29B-F2E4-9AB5-C4CB-9D8D43B15E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F8B29B-F2E4-9AB5-C4CB-9D8D43B15E38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
